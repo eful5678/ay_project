@@ -19,7 +19,7 @@ public class RepService {
 		return mapper.select(num);
 	}
 
-	public List getByBoardNum(int board_num) {
+	public List getReplyByBoardNum(int board_num) {
 		return mapper.selectByBoardNum(board_num);
 	}
 

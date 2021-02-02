@@ -9,7 +9,10 @@
 <title>Insert title here</title>
 <script src="http://code.jquery.com/jquery-latest.min.js">
 	$(document).ready(function(){
-		$("#write").click();
+		$("#write").click(function(){
+			//로그인 되어있는지 확인하기
+		}); 
+		
 	});
 </script>
 </head>
