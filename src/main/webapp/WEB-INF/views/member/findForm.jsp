@@ -24,5 +24,8 @@
 		</tr>
 	</table>
 </form>
+
+회원님의 아이디는 <div></div> 입니다.
+회원님의 비밀번호는 <div></div> 입니다.
 </body>
 </html>
