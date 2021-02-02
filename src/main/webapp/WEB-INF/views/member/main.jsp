@@ -9,7 +9,7 @@
 <body>
 <a href="#">로그인</a>
 <a href="#">회원가입</a>
-<a href="#">마이페이지</a>
-<a href="#">고객센터</a>
+<a href="">마이페이지</a>
+<a href="${pageContext.request.contextPath }/board/list">고객센터</a>
 </body>
 </html>
